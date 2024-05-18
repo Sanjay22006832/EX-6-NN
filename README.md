@@ -62,4 +62,4 @@ print(classification_rep)
 ![image](https://github.com/DHARINIPV/EX-6-NN/assets/119400845/36dd3cbe-a7af-4bdd-9ed5-95aa32a51a69)
 
 <H3>Results:</H3>
-Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
+Thus, an ANN with MLP is constructed and trained to predict the Breast Cancer using python.
